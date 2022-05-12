@@ -1,6 +1,18 @@
-Hi, I’m Max,
-I am a computer science student interested in everything Linux and PC Hardware related.
-I hope that in the future I will be competent enough so I can contribute to some open source projects,
-but at the moment I will keep it at providing feedback to the projects I'm using.
+![Welcome](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=Hi%2C+I'm+Max;Welcome+To+My+Github+Profile)
 
-Most of the stuff you will find here are personal configurations/small scripts I am using on my different PCs, feel free to use any of it for your own purposes.
+<p align="center"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" />
+
+<span style=font-size:20px>
+
+I am a computer science student at [Technische Universität Kaiserslautern](https://uni-kl.de/).  
+My Passions include Rust, Gaming, Linux, Bonsai and more.  
+
+Most of the stuff you will find here are personal projects so expect some bugs, or unfinished features.  
+Feel free to send me Issues/Pull-Requests I'll do my best to help you.  
+
+Did I mention that I LOVE Rust?  
+<p align="center"><img src="./assets/icons/rust.svg" alt="Rust icon" />
+
+</span>
+
+<p align="center"><img src="./assets/img/coding2.gif" alt="coding animation" width="700"/></p>
