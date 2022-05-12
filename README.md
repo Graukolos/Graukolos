@@ -14,5 +14,3 @@ Did I mention that I LOVE Rust?
 <p align="center"><img src="./assets/icons/rust.svg" alt="Rust icon" />
 
 </span>
-
-<p align="center"><img src="./assets/img/coding2.gif" alt="coding animation" width="700"/></p>
